@@ -1,0 +1,22 @@
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+G:\SoftUniResources\C#Web\C#WebBasic\Web Server - Asynchronous Processing\Handmade HTTP Server\WebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+G:\SoftUniResources\C#Web\CSharp-Web-Basic\trunk\CakeAppWithHandMadeServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

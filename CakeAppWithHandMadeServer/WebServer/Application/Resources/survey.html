@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Survey</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+    <!--replace-->
+   <div class="col-lg-10">
+       <form class="form-horizontal" method="post">
+           <fieldset>
+               <legend>Survey</legend>
+               <div class="form-group">
+                   <label for="firstName" class="col-lg-2 control-label">FirstName</label>
+                   <div class="col-lg-10">
+                       <input class="form-control" name="firstName" placeholder="First Name" type="text">
+                   </div>
+               </div>
+               <div class="form-group">
+                   <label for="lastName" class="col-lg-2 control-label">LastName</label>
+                   <div class="col-lg-10">
+                       <input class="form-control" name="lastName" placeholder="Last Name" type="text">
+                       <!--<div class="checkbox">
+                           <label>
+                               <input type="checkbox"> Checkbox
+                           </label>
+                       </div>-->
+                   </div>
+               </div>
+               <div class="form-group">
+                   <label for="birthDate" class="col-lg-2 control-label">Birthdate</label>
+                   <div class="col-lg-10">
+                       <input class="form-control" name="birthDate" placeholder="dd/MM/yyyy" type="date">
+                   </div>
+               </div>
+               <div class="form-group">
+                   <label class="col-lg-2 control-label">Gender</label>
+                   <div class="col-lg-10">
+                       <div class="radio">
+                           <label>
+                               <input name="gender"  value="male" checked="" type="radio">
+                              Male
+                           </label>
+                       </div>
+                       <div class="radio">
+                           <label>
+                               <input name="gender"  value="female" type="radio">
+                               Female
+                           </label>
+                       </div>
+                       <div class="radio">
+                           <label>
+                               <input name="gender" value="Do not want to answer" type="radio">
+                               Do not want to answer
+                           </label>
+                       </div>
+                   </div>
+               </div>
+               <div class="form-group">
+                   <label for="select" class="col-lg-2 control-label">Status</label>
+                   <div class="col-lg-10">
+                       <select class="form-control" name="select">
+                           <option value="Student">Student</option>
+                           <option value="Part-time Employee">Part-time Employee</option>
+                           <option value="Full-time Employee">Full-time Employee</option>
+                           <option value="Unemployed">Unemployed</option>
+                           <option value="Do not want to answer">Do not want to answer</option>
+                       </select>
+                   </div>
+               </div>
+               <div class="form-group">
+                   <label for="textArea" class="col-lg-2 control-label">Recommendations</label>
+                   <div class="col-lg-10">
+                       <textarea class="form-control" rows="3" name="recommendations"></textarea>
+                       <span class="help-block">Please tell us what are your recommendations for us and how to improve our product.</span>
+                   </div>
+               </div>
+               <div class="form-group">
+                   <label for="lastName" class="col-lg-2 control-label">You own:</label>
+                   <div class="col-lg-10">
+                       <!--<input class="form-control" id="lastName" placeholder="Last Name" type="text">-->
+                       <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="owns" value="laptop" checked="checked"> Laptop
+                            </label>
+                           <label>
+                               <input type="checkbox" name="owns" value="Smart Phone"> Smart Phone
+                           </label>
+                           <label>
+                               <input type="checkbox" name="owns" value="Mobile Phone"> Mobile Phone
+                           </label>
+                           <label>
+                               <input type="checkbox" name="owns" value="Car"> Car
+                           </label>
+                           <label>
+                               <input type="checkbox" name="owns"> Bike
+                           </label>
+                        </div>
+                   </div>
+               </div>
+               
+               <div class="form-group">
+                   <div class="col-lg-10 col-lg-offset-2">
+                       <button type="reset" class="btn btn-default">Reset all fields</button>
+                       <button type="submit" class="btn btn-primary">Send Survey</button>
+                   </div>
+               </div>
+
+           </fieldset>
+       </form>
+   </div>
+</body>
+</html>
